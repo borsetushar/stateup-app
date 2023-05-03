@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/stateup-app%20/static/css/main.073c9b0a.css",
-    "main.js": "/stateup-app%20/static/js/main.c506ce90.js",
-    "static/js/304.7b9a76d3.chunk.js": "/stateup-app%20/static/js/304.7b9a76d3.chunk.js",
-    "static/js/787.69804958.chunk.js": "/stateup-app%20/static/js/787.69804958.chunk.js",
-    "index.html": "/stateup-app%20/index.html",
-    "main.073c9b0a.css.map": "/stateup-app%20/static/css/main.073c9b0a.css.map",
-    "main.c506ce90.js.map": "/stateup-app%20/static/js/main.c506ce90.js.map",
-    "304.7b9a76d3.chunk.js.map": "/stateup-app%20/static/js/304.7b9a76d3.chunk.js.map",
-    "787.69804958.chunk.js.map": "/stateup-app%20/static/js/787.69804958.chunk.js.map"
+    "main.css": "/stateup-app/static/css/main.073c9b0a.css",
+    "main.js": "/stateup-app/static/js/main.eeb5abca.js",
+    "static/js/304.7b9a76d3.chunk.js": "/stateup-app/static/js/304.7b9a76d3.chunk.js",
+    "static/js/787.69804958.chunk.js": "/stateup-app/static/js/787.69804958.chunk.js",
+    "index.html": "/stateup-app/index.html",
+    "main.073c9b0a.css.map": "/stateup-app/static/css/main.073c9b0a.css.map",
+    "main.eeb5abca.js.map": "/stateup-app/static/js/main.eeb5abca.js.map",
+    "304.7b9a76d3.chunk.js.map": "/stateup-app/static/js/304.7b9a76d3.chunk.js.map",
+    "787.69804958.chunk.js.map": "/stateup-app/static/js/787.69804958.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.c506ce90.js"
+    "static/js/main.eeb5abca.js"
   ]
 }
